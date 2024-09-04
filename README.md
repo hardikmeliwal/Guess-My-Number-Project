@@ -21,3 +21,7 @@ Beat Your High Score: Keep guessing to improve your high score.
 HTML: For structuring the game's user interface.
 CSS: For styling and layout.
 JavaScript: For game logic and interactivity.
+
+![image](https://github.com/user-attachments/assets/93792e1d-1b1d-4daf-a04d-9d0aedd2c56c)
+
+![image](https://github.com/user-attachments/assets/0586c9e2-d6a9-47c6-b175-82665e4c146f)
